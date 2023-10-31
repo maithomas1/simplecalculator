@@ -1,18 +1,13 @@
-## Getting Started
+The code shall do math for the user
+Use whatever the scanner thing is and have users be able to input values
+This is legitimately a calculator 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+User will input whatever number they want initially then type in wheather they want to:
+    add
+    subtract
+    multiply
+    divide
+    mod
+    factoral
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+then they will input the next number and the thing should SHOULD spit out the answer 
